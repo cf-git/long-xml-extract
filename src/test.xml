@@ -1,0 +1,86 @@
+<ArrayOfCategory>
+    <Category prefix="bif">
+        <Id>2286</Id>
+        <Name>Biuro i firma</Name>
+        <Subcategories>
+            <Category prefix="abhp">
+                <Id>1485</Id>
+                <Name>Artykuły BHP</Name>
+                <Subcategories>
+                    <Category prefix="izbhp">
+                        <Id>2319</Id>
+                        <Name>Instrukcje i znaki BHP</Name>
+                        <Subcategories/>
+                    </Category>
+                    <Category>
+                        <Id>3497</Id>
+                        <Name>Kaski i czapki ochronne</Name>
+                        <Subcategories/>
+                    </Category>
+                    <Category>
+                        <Id>4388</Id>
+                        <Name>Maski przeciwpyłowe i ochronne</Name>
+                        <Subcategories/>
+                    </Category>
+                    <Category>
+                        <Id>1486</Id>
+                        <Name>Obuwie robocze</Name>
+                        <Subcategories/>
+                    </Category>
+                    <Category>
+                        <Id>1488</Id>
+                        <Name>Odzież robocza</Name>
+                        <Subcategories/>
+                    </Category>
+                    <Category>
+                        <Id>1861</Id>
+                        <Name>Okulary robocze</Name>
+                        <Subcategories/>
+                    </Category>
+                    <Category>
+                        <Id>1862</Id>
+                        <Name>Pozostałe artykuły BHP</Name>
+                        <Subcategories/>
+                    </Category>
+                    <Category>
+                        <Id>1487</Id>
+                        <Name>Rękawice robocze</Name>
+                        <Subcategories/>
+                    </Category>
+                    <Category>
+                        <Id>4416</Id>
+                        <Name>Sprzęt gaśniczy</Name>
+                        <Subcategories/>
+                    </Category>
+                </Subcategories>
+            </Category>
+            <Category>
+                <Id>3489</Id>
+                <Name>Biuro</Name>
+                <Subcategories>
+                    <Category>
+                        <Id>2339</Id>
+                        <Name>Akcesoria i wyposażenie biurowe</Name>
+                        <Subcategories>
+                            <Category>
+                                <Id>2341</Id>
+                                <Name>Artykuły papiernicze</Name>
+                                <Subcategories/>
+                            </Category>
+                            <Category>
+                                <Id>2896</Id>
+                                <Name>Artykuły piśmiennicze</Name>
+                                <Subcategories/>
+                            </Category>
+                            <Category>
+                                <Id>2343</Id>
+                                <Name>Druki</Name>
+                                <Subcategories/>
+                            </Category>
+                        </Subcategories>
+                    </Category>
+                </Subcategories>
+            </Category>
+        </Subcategories>
+    </Category>
+</ArrayOfCategory>

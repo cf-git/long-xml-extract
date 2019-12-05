@@ -1,0 +1,15 @@
+{
+    "name": "cf-git/long-xml-extractor",
+    "description": "Parsing and output long xml",
+    "type": "library",
+    "version": "1.0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergei Shubin",
+            "email": "is.captain.fail@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
