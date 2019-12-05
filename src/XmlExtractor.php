@@ -1,6 +1,6 @@
 <?php
 
-namespace CFGit;
+namespace CFGit\LongXml;
 
 class XmlExtractor
 {
